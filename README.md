@@ -1,5 +1,7 @@
-# Count path
-Code to presentation about Combinatorial analysis
+# safe--path
+
+Presentation about Combinatorial analysis
+
 Counting short safe paths in a grid
 
 Is possiple:
