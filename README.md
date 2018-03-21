@@ -1,12 +1,8 @@
-# safe--path
+# safepath
 
 Presentation about Combinatorial analysis
 
 Counting short safe paths in a grid
-
-Is possiple:
-- add target points
-- add restrict points
 
 ### Inclusion-exclusion principle
 - To count and discount shared paths
